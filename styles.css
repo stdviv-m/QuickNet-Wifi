@@ -18,9 +18,9 @@ p{
 }
 .button{
     padding:10px 20px;
-    background-color: #00fbff;
+    background-color: #064546;
     text-decoration:none ;
-    border-radius: 5px;
+    border-radius: 50px;
     transition: background-color 0.3s ease;
 
 }
@@ -33,6 +33,8 @@ p{
     width: 200px;
     display: grid;
    grid-area: span;
+   
+
 }
 .plan h3{
     color: #f2cade;
@@ -48,9 +50,9 @@ p{
     }
     .button{
         display: inline-block;
-        background-color: #007bff;
+        background-color: #c30d28;
         text-decoration: none;
-        border-radius: 5px;
+        border-radius: 100px;
         transition: background-color 0.3s ease;
 
     }
