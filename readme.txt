@@ -44,3 +44,49 @@
     5gb for 250 per week
 12 gb per 30 days at 1000S-->
     </section>
+
+        <h1>Welcome to QuickNet </h1>
+        <p>Get ready to experience seamless connectivity and hassle free wifi subscriptions. Choose your plan and stay
+            connected </p>
+        <section>
+
+            <div class="subscriptions">Please click on your preferred plan to continue
+                <span>
+                    <div class="plan1"><button>Hourly Plans</button>
+                        500mb @ 7
+                        900mb @ 13
+                        1GB @ 23
+                    </div>
+                </span>
+                <span>
+                    <div class="plan2"><button>Daily Plans</button>
+                        500mb @17
+                        900mb @ 30
+                        1Gb @ 50 bob
+                    </div>
+                </span>
+                <span>
+                    <div class="plan3"><button>Weekly Plans</button>
+                        900mb@ 40
+                        1GB@ 75
+                        1.2GB @ 125
+                        2gb@250
+                    </div>
+                </span>
+                <span>
+                    <div class="plan4"><button>Monthly Plans</button>
+                        1GB@ 350
+                        2GB @ 600
+                    </div>
+                </span>
+                <span>
+                    <div class="plan5"><button>Unlimited offers</button>
+                        500mb@ 20
+                        900mb@ 40
+                        1GB @ 77
+                        2GB@ 25 for 2 days
+                        200mb @ 5 bob for 30 minutes
+                    </div>
+                </span>
+            </div>
+        </section>
