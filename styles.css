@@ -51,7 +51,7 @@ align-items: self-end;
     grid-template-columns: 2fr 2fr 2fr auto 3fr;
     gap: 20px;
     padding: 20px;
-    background-color: red;
+    background-color: rgb(26, 24, 24);
     justify-content: center;
     align-items: center;
     margin-top: 50px; 

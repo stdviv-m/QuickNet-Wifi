@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="payment.css">
+    <title>Payment</title>
+</head>
+<body>
+    <div class="container">
+        <h2>M-pesa Payment Validation</h2>
+        <form id="payment-form">
+            <label for="phone number">Please enter the M-pesa phone number to pay for yor preferred plan</label>
+            <input type="text" name="phone" id="phone" required>
+            <label for="pin">Enter your M-pesa PIN</label>
+            <input type="password" name="pin" id="pin" required>
+            <button type="submit">Validate Payment</button>
+            <div id="error-message" class="error">Ensure that you entered the correct details</div>
+        </form>
+    </div>
+    <script src="payment.js"></script>
+</body>
+</html>
