@@ -90,3 +90,37 @@
                 </span>
             </div>
         </section>
+Tap on the preferred plan and follow the procedure
+hourly 500mb@ ksh 5 max 4 mbps
+1 hour unlimited @ 10/-
+daily 500mbs
+daily 1gb@ 15/-
+daily 2GB@ 25/-
+4hrs unlimited @ 30 bob
+weekly 3gb @ 49
+24hrs unlimited @ 40
+24hrs @ 70
+weekly 5gb@ 100
+weekly 4 mbps @200/-
+weekly 8mbps@300/-
+monthly unlimited @ 700
+monthly @ 900 8 mbps
+
+instructions on how to access our wifi
+1.tap on your preferred plan
+2. Enter yor phone number when prompted
+3. click pay
+4. Enter your Mpesa pin, wait for mpesa authentication 
+5. connect and enjoy our seamless connectivity!
+customer care contact email me at vivmukhongo@gmail.com phone +254796282350
+feel free to contact me at any time  
+
+Reconnect account
+enter Mpesa code from the payment you made to validate your connection
+
+Voucher recharge
+(call admin for voucher recharge in case your payment is not successful)
+
+wifi login- login form
+(Enter your username plus password to login)
+

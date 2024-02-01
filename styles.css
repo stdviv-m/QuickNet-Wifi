@@ -13,34 +13,55 @@ h1{
 }
 p{
     color: #666;
-    font-size: 18px;
+    font-size: 15px;
     margin-bottom: 20px;
 }
-.button{
-    padding:10px 20px;
+/* .button{ 
+   
     background-color: #064546;
     text-decoration:none ;
     border-radius: 50px;
     transition: background-color 0.3s ease;
 
+}*/
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: #0f6881;
+    border-radius: 100px;
+    padding: 100px 120px;
+    margin: 20px 10px 10px;
+
 }
-.plan{
+.flex-item{
+    margin: 10px;
+    padding: 20px;
+    border-radius:10px;
+    flex-wrap: wrap;
+    float: left;
+    
+
+}
+/* .plan{ 
     border: 10px ;
     border-radius:50px;
     padding: 10px;
     margin: 50px 20px;
-    background-color: #0f6881;
+    
     width: 200px;
     display: grid;
    grid-area: span;
+   flex-wrap: wrap;
    
 
-}
+ } */
 .plan h3{
     color: #f2cade;
     }
     .plan p{
-        color: #666;
+        color: #000;
         margin-bottom: 20px;
     }
     .plan .price{
@@ -51,12 +72,13 @@ p{
     .button{
         display: inline-block;
         background-color: #c30d28;
+        padding:5px 10px;
         text-decoration: none;
         border-radius: 100px;
         transition: background-color 0.3s ease;
 
     }
 .button:hover{
-    background-color: #0056b3;
+    background-color: #d0d0d0;
 
 }
